@@ -6,3 +6,9 @@ div{
 .new{
     background-color: aqua;
 }
+.mygithub{
+    background-color: aqua;
+    border-radius: 100px;
+    margin: 20px;
+    border: 10px solid #0084ff;
+}
